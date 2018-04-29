@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HalloWelt</string>
+    <string name="texto_parrafo">Üben mit Android Studio</string>
+    <string name="segundo_texto">Zweiter Absatz in meiner Bewerbung</string>
+</resources>

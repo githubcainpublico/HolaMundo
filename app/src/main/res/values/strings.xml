@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="texto_parrafo">Practicando con Android Studio</string>
+    <string name="segundo_texto">Segundo parrafo dentro de mi aplicación</string>
+</resources>
